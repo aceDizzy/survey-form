@@ -66,3 +66,8 @@ input[type="submit"] {
     border-color: #9DB17C;
     color: #4B3B40;
 }
+
+::placeholder { /*change placeholder color*/
+    color: #e6dac9;
+    opacity: 1; 
+  }
